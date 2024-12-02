@@ -1,17 +1,21 @@
-- selector: slider1
+po- selector: slider1
   bullets: false
   captions: true
   images:
-    - src: /img/1.jpg
+    - src: /img/expo01.jpeg
       alt: Minimum required attributes
-    - data-src: /img/2.jpg
+    - data-src: /img/expo2.jpeg
       alt: Use data-src for on-demand loading
-    - data-src: /img/3.jpg
-      data-src-2x: /img/3@2x.jpg
+    - data-src: /img/expo03.jpeg
+      data-src-2x: /img/expo03@2x.jpeg
       alt: Use data-src-2x for HiDPI devices
-    - src: /img/4.jpg
-      alt: Links work too
+    - src: /img/expo04.jpeg
+      alt: Exposition 4
       href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+    - src: /img/expo05.jpeg
+      alt: Exposition 5
+    - src: /img/expo06.jpeg
+      alt: Exposition 6
   settings:
     height: 400
     initialHeight:
