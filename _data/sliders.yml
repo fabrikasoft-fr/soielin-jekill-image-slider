@@ -4,7 +4,7 @@
   images:
     - src: /img/expo01.jpeg
       alt: Minimum required attributes
-    - data-src: /img/expo2.jpeg
+    - data-src: /img/expo02.jpeg
       alt: Use data-src for on-demand loading
     - data-src: /img/expo03.jpeg
       data-src-2x: /img/expo03@2x.jpeg
@@ -32,14 +32,14 @@
   bullets: true
   captions: true
   images:
-    - src: /img/article01.jpg
+    - src: /img/article01.jpeg
       title: Balloons!
       alt: This slider has caption titles
-    - data-src: /img/article02.jpg
+    - data-src: /img/article02.jpeg
       title: This slider uses the fade effect
       alt: Instead of the default slide effect
-    - data-src: /img/article03.jpg
-      data-src-2x: /img/article03@2x.jpg
+    - data-src: /img/article03.jpeg
+      data-src-2x: /img/article03@2x.jpeg
   settings:
     height: "'auto'"
     effect: "'fade'"
