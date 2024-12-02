@@ -1,4 +1,4 @@
-po- selector: slider1
+- selector: slider1
   bullets: false
   captions: true
   images:
